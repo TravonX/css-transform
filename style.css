@@ -78,8 +78,8 @@ button:hover{
     }
     .btns {
         grid-template-columns: repeat(2);
-        grid-template-rows: repeat(4,50px);
-        right: 15rem;
+        grid-template-rows: repeat(4,100px);
+        right: 8rem;
     }
     .alert {
         width: 200px;
